@@ -1,0 +1,3 @@
+fn = ("Devendra")
+ln = ("Parasram")
+print (fn, ln)
